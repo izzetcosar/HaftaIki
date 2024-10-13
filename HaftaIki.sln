@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratikWhileOrnekleri", "Pra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratikWhileWsDowhile", "PratikWhileWsDowhile\PratikWhileWsDowhile.csproj", "{8A85D1DA-6533-4C67-BACE-CF9CAA56A9E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratikYolArkadasi", "PratikYolArkadasi\PratikYolArkadasi.csproj", "{20163CA9-69A4-43B9-9932-FA0412132C1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A85D1DA-6533-4C67-BACE-CF9CAA56A9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A85D1DA-6533-4C67-BACE-CF9CAA56A9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A85D1DA-6533-4C67-BACE-CF9CAA56A9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20163CA9-69A4-43B9-9932-FA0412132C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20163CA9-69A4-43B9-9932-FA0412132C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20163CA9-69A4-43B9-9932-FA0412132C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20163CA9-69A4-43B9-9932-FA0412132C1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
