@@ -5,11 +5,13 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik-ForOrnekleri", "Pratik-ForOrnekleri\Pratik-ForOrnekleri.csproj", "{623D9149-0506-4CD2-A24B-00B15A5AB9CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratikWhileOrnekleri", "PratikWhileOrnekleri\PratikWhileOrnekleri.csproj", "{EA9CB5CD-AB05-4B52-984E-6109E0F3327A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PratikWhileOrnekleri", "PratikWhileOrnekleri\PratikWhileOrnekleri.csproj", "{EA9CB5CD-AB05-4B52-984E-6109E0F3327A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratikWhileWsDowhile", "PratikWhileWsDowhile\PratikWhileWsDowhile.csproj", "{8A85D1DA-6533-4C67-BACE-CF9CAA56A9E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PratikWhileWsDowhile", "PratikWhileWsDowhile\PratikWhileWsDowhile.csproj", "{8A85D1DA-6533-4C67-BACE-CF9CAA56A9E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratikYolArkadasi", "PratikYolArkadasi\PratikYolArkadasi.csproj", "{20163CA9-69A4-43B9-9932-FA0412132C1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PratikYolArkadasi", "PratikYolArkadasi\PratikYolArkadasi.csproj", "{20163CA9-69A4-43B9-9932-FA0412132C1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik-IlkMetotUygulamamız", "Pratik-IlkMetotUygulamamız\Pratik-IlkMetotUygulamamız.csproj", "{B59E9705-36EA-4B09-9188-B514ED2DCF93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{20163CA9-69A4-43B9-9932-FA0412132C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20163CA9-69A4-43B9-9932-FA0412132C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20163CA9-69A4-43B9-9932-FA0412132C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59E9705-36EA-4B09-9188-B514ED2DCF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59E9705-36EA-4B09-9188-B514ED2DCF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59E9705-36EA-4B09-9188-B514ED2DCF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59E9705-36EA-4B09-9188-B514ED2DCF93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
