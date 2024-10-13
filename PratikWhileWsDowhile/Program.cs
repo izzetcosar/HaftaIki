@@ -29,4 +29,4 @@ Console.ReadKey();
 
 
 //while ile programı yaptığımızda - değer atadıgımızda programi sonlandırıyor
-//do while ile yaptıgımızda ekrana do kısmındaki çıktıyı yazdırıp sonrasında programı sonlandırıyor.
+//do while ile yaptıgımızda ekrana do kısmındaki çıktıyı yazdırıp sonrasında programı sonlandırıyor
